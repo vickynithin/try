@@ -1,0 +1,8 @@
+{
+  "name": "mern-todo-monorepo",
+  "private": true,
+  "scripts": {
+    "start": "cd backend && npm start",
+    "postinstall": "cd backend && npm install"
+  }
+}
